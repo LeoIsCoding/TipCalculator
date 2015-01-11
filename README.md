@@ -14,6 +14,6 @@ Optional: Added an option for user to set their own custom percentage other than
 
 Walkthrough of all user stories:
 
-
+![Video Walkthrough](TipCalculatorRecording.gif)
 
 GIF created with LiceCap.
